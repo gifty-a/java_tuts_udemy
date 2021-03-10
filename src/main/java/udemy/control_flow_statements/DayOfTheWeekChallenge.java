@@ -1,4 +1,4 @@
-package udemy;
+package udemy.control_flow_statements;
 
 public class DayOfTheWeekChallenge {
     private static final String INVALID_TEXT = "Invalid day";

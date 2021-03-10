@@ -1,4 +1,4 @@
-package udemy;
+package udemy.control_flow_statements;
 
 public class AreaCalculator {
     private static final double INVALID_NUMBER = -1;

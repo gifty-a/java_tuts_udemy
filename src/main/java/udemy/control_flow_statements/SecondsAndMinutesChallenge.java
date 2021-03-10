@@ -1,4 +1,4 @@
-package udemy;
+package udemy.control_flow_statements;
 
 public class SecondsAndMinutesChallenge {
     public String getDurationString(int minutes, int seconds){

@@ -1,4 +1,4 @@
-package udemy;
+package udemy.control_flow_statements;
 
 public class SumThreeAndFiveChallenge {
     public static void main(String[] args){

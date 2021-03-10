@@ -1,4 +1,4 @@
-package udemy;
+package udemy.control_flow_statements;
 
 public class MethodOverloading {
     public double calcFeetAndInchesToCentimeters(double feet, double inches){
