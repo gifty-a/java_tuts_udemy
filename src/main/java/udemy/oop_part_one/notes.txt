@@ -1,0 +1,11 @@
+The class fundamental component of OOP - A template/blueprint for creating objects
+An object has state and behaviour - An object is an instance of a class
+states in objects are stored as fields
+Behaviour are methods exposing the fields
+Access Modifier
+Private - fields/methods with the private modifier can only be accessed from within the class
+Public - fields/methods with the public modifier can be accessed by objects outside and within the class's package
+Protected - when a field doesn't have an access modifier, this is the default modifier used. the field or method can only be accessed by other classes in the same package
+Constructor helps you initialize items during object creation and initialize the object itself.
+it's not advisable to call other methods, including setters in a constructor.
+Inherit commonly used fields and methods from classes
